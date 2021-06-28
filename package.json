@@ -1,0 +1,26 @@
+{
+    "name": "material-theme-calm",
+    "displayName": "Material Calm",
+    "description": "Material Calm :) . Use a calm material theme",
+    "version": "1.0.0",
+    "publisher": "dev404",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "material",
+        "dev404"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Material Calm :)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Material Calm )-color-theme.json"
+        }]
+    }
+}
